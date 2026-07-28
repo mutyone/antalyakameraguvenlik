@@ -1,0 +1,35 @@
+# robots.txt - antalyakameraguvenlik.com
+# Googlebot ve Yapay Zeka Arama Botları (GEO) İzinleri
+
+User-agent: *
+Allow: /
+
+# Google Search Engine
+User-agent: Googlebot
+Allow: /
+
+# OpenAI / ChatGPT AI Search Bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Google Gemini / AI Extended
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity AI Bot
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic Claude Bot
+User-agent: ClaudeBot
+Allow: /
+
+# Apple AI Bot
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap
+Sitemap: https://antalyakameraguvenlik.com/sitemap.xml

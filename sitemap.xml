@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Kepez Güvenlik Kamerasi -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/kepez-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Muratpaşa / Lara Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/muratpasa-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Konyaaltı Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/konyaalti-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Döşemealtı Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/dosemealti-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Aksu Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/aksu-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Serik Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/serik-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Kemer Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/kemer-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Manavgat Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/manavgat-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Alanya Güvenlik Kamerası -->
+  <url>
+    <loc>https://antalyakameraguvenlik.com/ilceler/alanya-guvenlik-kamerasi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
